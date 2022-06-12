@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wcli",
+  "name": "warClient",
+  "description": "A modded war utility client made by ArtificialIndi and developed by ArtificialIndi and Crest",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ArtificialIndi", "Crest"],
+  "credits": "ArtificialIndi and Crest",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -105,7 +105,7 @@
       <recent name="F:\mcMods\1.7.10\warClient\src\main\java\org\darkstorm\minecraft\gui" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.warClient [build]">
+  <component name="RunManager" selected="Gradle.warClient [runClient]">
     <configuration name="warClient [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -213,9 +213,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.warClient [runClient]" />
         <item itemvalue="Gradle.warClient [build]" />
         <item itemvalue="Gradle.warClient [clean]" />
-        <item itemvalue="Gradle.warClient [runClient]" />
         <item itemvalue="Gradle.warClient [buildDependents]" />
         <item itemvalue="Gradle.warClient [testClasses]" />
       </list>
